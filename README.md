@@ -1,3 +1,3 @@
 # eradiate_simulations
 
-Eradiate Out-of-Field radiance simulation 
+Using Eradiate to perform out-of-field stray light simulation 
